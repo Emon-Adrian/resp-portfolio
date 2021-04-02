@@ -1,0 +1,12 @@
+footer {
+    width: 100%;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-around;
+}
+footer h3{
+    max-width: 60px;
+}
+footer h3:not(:last-child){
+    margin-right: 30px;
+}

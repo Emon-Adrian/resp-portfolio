@@ -7,7 +7,7 @@ const Skills = () => {
             <div className="content">
                <div>
                    <strong>Reactjs</strong>
-                   <p>I started working with reactjs in June of 2020. It's a quite interesting Library. i have worked with literaly all it's concepts</p>
+                   <p>I started working with reactjs in May of 2020. It's a quite interesting Library. I have worked with literaly all it's concepts and it's related component libaries</p>
                </div>
             </div>
             <div className="content">
@@ -19,7 +19,7 @@ const Skills = () => {
             <div className="content">
                <div>
                    <strong>Front-End</strong>
-                   <p>My Goal is to become a bigtime Front-End. I'm ambitious ans believe the end of this year I will be a superstar. My favorite framework is reactjs and I'm working to learn at the core.`</p>
+                   <p>My Goal is to become a bigtime Front-End. I'm ambitious ans believe the end of this year I will be a superstar. My favorite framework is reactjs and I'm working towards perfecting it to the core.</p>
                </div>
             </div>
         </div>

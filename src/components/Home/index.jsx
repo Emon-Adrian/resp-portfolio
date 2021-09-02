@@ -9,9 +9,9 @@ const Home = () => {
         <div className="home">
            <div className="title">
              <h1>
-                 <p>Hi,</p>
-                 <p>I am Emon Adrian</p>
-                 <p>Software developer</p>
+                 <p>Yo'</p>
+                 <p>I'm Emon Adrian.</p>
+                 <p>Your Software developer!</p>
              </h1>
              <Link to="/about">
                  <button>More</button>
@@ -19,7 +19,7 @@ const Home = () => {
            </div>
            <div className='person'>
                <img
-                 src={Emon} alt="Emon Adrian" 
+                 src={Emon} alt="Emon Adrian" loading="lazy"
                />
            </div>
         </div>

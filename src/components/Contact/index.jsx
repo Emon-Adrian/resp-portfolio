@@ -15,6 +15,7 @@ const Contact = () => {
 
             <h4>Phone</h4>
             <p>+256705711611</p>
+            <p>+256778974665</p>
 
             <h4>Email</h4>
             <p>matovuemon20@gmail.com</p>

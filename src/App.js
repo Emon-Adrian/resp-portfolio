@@ -6,6 +6,7 @@ import Contact from './components/Contact'
 import NavBar from './components/NavBar'
 import Footer from './components/Footer'
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (

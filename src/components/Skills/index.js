@@ -28,6 +28,12 @@ const Skills = () => {
                    <p>My Goal is to become a Front-End pro. I'm ambitious and my favorite framework is Reactjs. I'm working towards perfecting it to the core.</p>
                </div>
             </div>
+            <div className="content">
+               <div>
+                   <strong>Graphic Designer</strong>
+                   <p> I love designing graphics and mostly for social or the online community.</p>
+               </div>
+            </div>
         </div>
     )
 }

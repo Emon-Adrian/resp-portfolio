@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom"
 import React from 'react'
 import Emon from './image.svg';
+import shape from './shape.svg'
 import './style.css'
 
 
@@ -11,7 +12,7 @@ const Home = () => {
              <h1>
                  <p>Yo'</p>
                  <p>I'm Emon Adrian.</p>
-                 <p>Your Software developer!</p>
+                 <p>Your Software developer and Graphic Designer!</p>
              </h1>
              <Link to="/about">
                  <button>More</button>
